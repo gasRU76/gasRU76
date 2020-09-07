@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there I'm Alexander 👋
+
+I am a DevOps engineer. I use Docker, k8s, gitlab ci/cd. I create automatic build and deployment systems. I often use python for it. 
+
+
 
 <!--
 **gasRU76/gasRU76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
